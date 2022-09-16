@@ -414,3 +414,8 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+
+#泥巴视频
+DOMAIN-KEYWORD,mudvod
+DOMAIN-KEYWORD,nivod
